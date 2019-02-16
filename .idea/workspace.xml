@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74d8779a-33e4-4538-a926-2416696d9193" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-101-hoos-there.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-101-hoos-there.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HoosThere/HoosThere/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/HoosThere/HoosThere/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="74d8779a-33e4-4538-a926-2416696d9193" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,13 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Daniel Ayoub &lt;dsa8cx@virginia.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,16 +125,23 @@
       <option name="presentableId" value="Default" />
       <updated>1549914309521</updated>
       <workItem from="1549914314145" duration="10000" />
-      <workItem from="1550165828692" duration="110000" />
+      <workItem from="1550165828692" duration="400000" />
     </task>
+    <task id="LOCAL-00001" summary="Barebones Website">
+      <created>1550166006276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550166006276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120000" />
+    <option name="totallyTimeSpent" value="410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="40" width="1260" height="695" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -160,6 +168,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Barebones Website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Barebones Website" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HoosThere/studentmatching/tests.py">
