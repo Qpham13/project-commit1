@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74d8779a-33e4-4538-a926-2416696d9193" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/studentmatching/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/studentmatching/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="74d8779a-33e4-4538-a926-2416696d9193" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studentmatching/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -48,6 +46,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HoosThere/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -73,7 +76,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="11" />
-    <option name="y" value="40" />
+    <option name="y" value="68" />
     <option name="width" value="1260" />
     <option name="height" value="695" />
   </component>
@@ -142,7 +145,7 @@
       <updated>1549914309521</updated>
       <workItem from="1549914314145" duration="10000" />
       <workItem from="1550165828692" duration="400000" />
-      <workItem from="1550433621358" duration="406000" />
+      <workItem from="1550433621358" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="Barebones Website">
       <created>1550166006276</created>
@@ -155,10 +158,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="816000" />
+    <option name="totallyTimeSpent" value="1321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="40" width="1260" height="695" extended-state="0" />
+    <frame x="11" y="68" width="1260" height="695" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779969" />
@@ -240,6 +243,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HoosThere/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
