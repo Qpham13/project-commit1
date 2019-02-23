@@ -6,11 +6,12 @@
         {% block content %}
 	        {% if user.is_authenticated %}
                 <p class="display-4">Hello, {{ user.username }}</p>
+                <br>
+                <a href="/logout">logout</a>
+                <br>
 	        {% else %}
                 <a class="lead" href="{% url 'login' %}">Log in</a>
             {% endif %}
-            <br><br>
-            <a href="/logout">logout</a>
         {% endblock content %}
     </body>
 </html>
