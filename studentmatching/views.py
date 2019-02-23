@@ -1,11 +1,12 @@
 from django.shortcuts import render
-
-# Create your views here.
-from django.http import HttpResponse
-
+from django.contrib.auth import logout as auth_logout
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the student matching index.")
+    return render(request, 'studentmatching/index.html')
 
 def login(request):
-    return render(request, 'studentmatching/login.html', {})
+    return render(request, 'studentmatching/login.html')
+
+def logout(request):
+    auth_logout(request)
+    return render(request, 'studentmatching/logout.html')
